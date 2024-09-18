@@ -60,6 +60,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pipe
       objectReference: {fileID: 0}
+    - target: {fileID: 7066354378460292911, guid: ba5db3e397017824c94517a72bfb6a22, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 8534878207913087603, guid: ba5db3e397017824c94517a72bfb6a22, type: 3}
       propertyPath: m_LocalScale.y
       value: 6.1511335
@@ -125,6 +129,10 @@ PrefabInstance:
     - target: {fileID: 7066354378460292911, guid: ba5db3e397017824c94517a72bfb6a22, type: 3}
       propertyPath: m_Name
       value: Pipe (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7066354378460292911, guid: ba5db3e397017824c94517a72bfb6a22, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 8534878207913087603, guid: ba5db3e397017824c94517a72bfb6a22, type: 3}
       propertyPath: m_LocalScale.y
@@ -238,6 +246,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2057128581070862202, guid: 73aa6157339dcba4793ba0cb12886ce8, type: 3}
       propertyPath: m_Name
+      value: Scoring
+      objectReference: {fileID: 0}
+    - target: {fileID: 2057128581070862202, guid: 73aa6157339dcba4793ba0cb12886ce8, type: 3}
+      propertyPath: m_TagString
       value: Scoring
       objectReference: {fileID: 0}
     m_RemovedComponents: []
